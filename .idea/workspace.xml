@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="813f5b22-d6d1-4814-ab9f-81c75705e2f6" name="Changes" comment="" />
+    <list default="true" id="813f5b22-d6d1-4814-ab9f-81c75705e2f6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/StringUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/StringUtilities.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +63,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.CalculatorTests">
+  <component name="RunManager" selected="JUnit.StringUtilitiesTests">
     <configuration name="All in software-dev-course-classes-and-objects-1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="software-dev-course-classes-and-objects-1" />
       <option name="PACKAGE_NAME" value="" />
@@ -121,8 +124,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in software-dev-course-classes-and-objects-1" />
         <item itemvalue="JUnit.StringUtilitiesTests" />
+        <item itemvalue="JUnit.All in software-dev-course-classes-and-objects-1" />
         <item itemvalue="JUnit.org.example in software-dev-course-classes-and-objects-1" />
       </list>
     </recent_temporary>
